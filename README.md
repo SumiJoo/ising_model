@@ -1,0 +1,1 @@
+this file simulates the ising model in MCMC and MFQ (mean field Q-learning) . MFQ modifies the Q-learning with mean-field approximation , which performances extremely good when the size is large (more than 100*100)
